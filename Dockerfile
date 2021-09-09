@@ -1,3 +1,3 @@
-FROM redis
+FROM ghost
 
 COPY Procfile .
