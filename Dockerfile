@@ -1,1 +1,3 @@
 FROM redis
+
+COPY Procfile .
